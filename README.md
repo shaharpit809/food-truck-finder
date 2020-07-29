@@ -2,6 +2,8 @@
 
 This is a command line project which is used to find all the Food Trucks that are open in San Francisco when the code is executed.
 
+You can read more about my thought process for building a fully featured web application from [here](https://github.com/shaharpit809/food-truck-finder/blob/master/writeup.md)
+
 ## Prerequisites
 
 - Check if `Python 3.x` version is installed or not
